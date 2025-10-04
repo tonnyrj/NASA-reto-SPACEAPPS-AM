@@ -1,0 +1,8 @@
+streamlit
+streamlit-folium
+folium
+numpy
+matplotlib
+shapely
+geopandas
+rasterio
